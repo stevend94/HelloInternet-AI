@@ -1,0 +1,1 @@
+# Folder for storing sample text generated from GPT2 models. See GPT2 jupyter notebook for more details.

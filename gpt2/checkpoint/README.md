@@ -1,0 +1,1 @@
+# Checkpoint folder for storing saved GPT2 models.
