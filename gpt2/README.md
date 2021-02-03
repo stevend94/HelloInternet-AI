@@ -1,1 +1,1 @@
-# Details for training GPT2 model or loading previous model are contained in the GPT2 jupyter notebook. For more details go to https://github.com/minimaxir/gpt-2-simple if you need more details.
+### Details for training GPT2 model or loading previous model are contained in the GPT2 jupyter notebook. For more details go to https://github.com/minimaxir/gpt-2-simple if you need more details.

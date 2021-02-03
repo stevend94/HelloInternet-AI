@@ -14,7 +14,7 @@
 &nbsp;
 
 # Data
-## All the data is available to download. Data was extracted using otter.ai along with some manual labels. You can download the raw data or the processed data below.
+### All the data is available to download. Data was extracted using otter.ai along with some manual labels. You can download the raw data or the processed data below.
 * [Raw manuscripts with time stamps](https://drive.google.com/file/d/1lBOr_SCnv-EsB9KSTh0JV2owg6815U7a/view?usp=sharing)
 * [Text data](https://drive.google.com/file/d/1qHQfDa2pr6f8ZtedK8hsrwcoStayoE6b/view?usp=sharing)
 
