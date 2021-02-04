@@ -44,7 +44,7 @@
 
 &nbsp;
 
-# Example from transcripts generated from GPT-2 124M model.
+# Example from GPT-2 124M model.
 
 ```txt
 [Grey] Brady no more plane crash corner. Yeah,
