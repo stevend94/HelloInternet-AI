@@ -1,0 +1,10 @@
+Some basic requirements.
+
+* pytorch >= 1.7.1 
+* tensorflow 1.x
+* torchtext >= 0.8.1
+* gpt-2-simple
+* matplotlib
+* jupyter notebook or jupyter lab
+* wordcloud 
+* nltk

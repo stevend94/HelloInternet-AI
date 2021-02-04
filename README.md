@@ -1,8 +1,10 @@
 # Hello Internet AI
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
-![TensorFlow Requirement: 1.x](https://img.shields.io/badge/TensorFlow%20Requirement-1.x-brightgreen)
 ![Commit Activity](https://img.shields.io/github/last-commit/stevend94/CoNLL2020?color=blue)
 ![Complete](https://img.shields.io/badge/Complete-90%25-green)
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
+
 
 ![alt text](https://b.thumbs.redditmedia.com/UnXpHrwhF5dO-XtAw5hTmHm5L6R73YdjPDpXVPTj5Lg.png)
 
@@ -14,7 +16,7 @@
 &nbsp;
 
 # Data
-### All the data is available to download. Data was extracted using otter.ai along with some manual labels. You can download the raw data or the processed data below.
+## All the data is available to download. Data was extracted using otter.ai along with some manual labels. You can download the raw data or the processed data below.
 * [Raw manuscripts with time stamps](https://drive.google.com/file/d/1lBOr_SCnv-EsB9KSTh0JV2owg6815U7a/view?usp=sharing)
 * [Text data](https://drive.google.com/file/d/1qHQfDa2pr6f8ZtedK8hsrwcoStayoE6b/view?usp=sharing)
 
@@ -27,8 +29,18 @@
 
 &nbsp;
 
-# EDA
-### We also provide a simple notebook for exploring the data, and may add an extra notebook that solves some other task (For example, predicting which person is talking).
+# Notebooks
+### To make the code more user friendly for those looking to use these models and data, we made use of a number of jupyter notebooks to present and run the code. These include,
+
+* EDA - A notebook that explores the data
+* Classification - A notebook where we use a neural network to classify who is speaking
+* gpt2 - A notebook that allows you to train your own GPT2 language model, either from pretrained or from scratch, using the HI transcripts (requires atleast a 6GB GPU to run)
+* lstm - A notebook for training a language model from the HI transcripts from scratch, that does not require a large GPU
+
+&nbsp;
+
+# Requirements
+### See full requirements in the requirements.txt file, but for training GPT2 you need tensorflow 1.x and for the other notebooks, pytorch is required. Furthermore, you need jupyter notebook (though we recommend jupyter lab instead).
 
 &nbsp;
 

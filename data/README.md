@@ -1,0 +1,1 @@
+### Folder containing training data from HI transcripts or processed text data.
