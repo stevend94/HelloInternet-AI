@@ -44,6 +44,11 @@
 
 &nbsp;
 
+# Todo
+### In the future, we would like to clean the transcript data more, since its quite noisy and misaligned right now. We may work on some other updates to make the notebooks more accessable. For example, adding a few more tools to the gpt2 notebook, updating the lstm notebook to make it easier to use and a colab notebook which has access to their GPU's.
+
+&nbsp;
+
 # Example from GPT-2 124M model.
 
 ```txt
